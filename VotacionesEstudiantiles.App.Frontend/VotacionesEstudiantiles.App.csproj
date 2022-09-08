@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <ProjectReference Include="..\VotacionesEstudiantiles.App.Dominio\VotacionesEstudiantiles.App.Dominio.csproj" />
+    <ProjectReference Include="..\VotacionesEstudiantiles.App.Persistencia\VotacionesEstudiantiles.App.Persistencia.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+</Project>

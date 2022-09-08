@@ -1,0 +1,108 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "VotacionesEstudiantiles.App.Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/VotacionesEstudiantiles.App.Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VotacionesEstudiantiles.App.Dominio.dll": {}
+        }
+      },
+      "VotacionesEstudiantiles.App.Persistencia/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/VotacionesEstudiantiles.App.Persistencia.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VotacionesEstudiantiles.App.Persistencia.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VotacionesEstudiantiles.App.Dominio/1.0.0": {
+      "type": "project",
+      "path": "../VotacionesEstudiantiles.App.Dominio/VotacionesEstudiantiles.App.Dominio.csproj",
+      "msbuildProject": "../VotacionesEstudiantiles.App.Dominio/VotacionesEstudiantiles.App.Dominio.csproj"
+    },
+    "VotacionesEstudiantiles.App.Persistencia/1.0.0": {
+      "type": "project",
+      "path": "../VotacionesEstudiantiles.App.Persistencia/VotacionesEstudiantiles.App.Persistencia.csproj",
+      "msbuildProject": "../VotacionesEstudiantiles.App.Persistencia/VotacionesEstudiantiles.App.Persistencia.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "VotacionesEstudiantiles.App.Dominio >= 1.0.0",
+      "VotacionesEstudiantiles.App.Persistencia >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\DUVAN\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Curso Programacion Mintic 2022\\Ciclo 3\\Programacion\\ProyectosGit\\VotacionesEscolaresVirtuales\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Frontend\\VotacionesEstudiantiles.App.csproj",
+      "projectName": "VotacionesEstudiantiles.App",
+      "projectPath": "D:\\Curso Programacion Mintic 2022\\Ciclo 3\\Programacion\\ProyectosGit\\VotacionesEscolaresVirtuales\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Frontend\\VotacionesEstudiantiles.App.csproj",
+      "packagesPath": "C:\\Users\\DUVAN\\.nuget\\packages\\",
+      "outputPath": "D:\\Curso Programacion Mintic 2022\\Ciclo 3\\Programacion\\ProyectosGit\\VotacionesEscolaresVirtuales\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Frontend\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\DUVAN\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "D:\\Curso Programacion Mintic 2022\\Ciclo 3\\Programacion\\ProyectosGit\\VotacionesEscolaresVirtuales\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Dominio\\VotacionesEstudiantiles.App.Dominio.csproj": {
+              "projectPath": "D:\\Curso Programacion Mintic 2022\\Ciclo 3\\Programacion\\ProyectosGit\\VotacionesEscolaresVirtuales\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Dominio\\VotacionesEstudiantiles.App.Dominio.csproj"
+            },
+            "D:\\Curso Programacion Mintic 2022\\Ciclo 3\\Programacion\\ProyectosGit\\VotacionesEscolaresVirtuales\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Persistencia\\VotacionesEstudiantiles.App.Persistencia.csproj": {
+              "projectPath": "D:\\Curso Programacion Mintic 2022\\Ciclo 3\\Programacion\\ProyectosGit\\VotacionesEscolaresVirtuales\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Persistencia\\VotacionesEstudiantiles.App.Persistencia.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.422\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

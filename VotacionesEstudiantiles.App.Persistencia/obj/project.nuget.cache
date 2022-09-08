@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VleVy/tBUCu3tj1MfO10OFIGYPm6VS2JL4VfhWbj8fwhnUsOndVezzv6XRcq8KAdNlMRCZiSaB+J8TkkRTpVmQ==",
+  "success": true,
+  "projectFilePath": "D:\\Curso Programacion Mintic 2022\\Ciclo 3\\Programacion\\ProyectosGit\\VotacionesEscolaresVirtuales\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Persistencia\\VotacionesEstudiantiles.App.Persistencia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DUVAN\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\DUVAN\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
