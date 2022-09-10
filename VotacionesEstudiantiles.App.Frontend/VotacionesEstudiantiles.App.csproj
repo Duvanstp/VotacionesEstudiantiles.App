@@ -6,6 +6,7 @@
   </ItemGroup>
 
   <PropertyGroup>
+    <InvariantGlobalization>true</InvariantGlobalization>
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
