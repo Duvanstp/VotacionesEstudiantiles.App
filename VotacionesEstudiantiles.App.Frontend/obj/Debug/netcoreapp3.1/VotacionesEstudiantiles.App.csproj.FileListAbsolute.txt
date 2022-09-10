@@ -138,7 +138,6 @@ D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEs
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.Persistencia.dll
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.Dominio.pdb
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.Persistencia.pdb
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.csprojAssemblyReference.cache
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.AssemblyInfoInputs.cache
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.AssemblyInfo.cs
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.csproj.CoreCompileInputs.cache
