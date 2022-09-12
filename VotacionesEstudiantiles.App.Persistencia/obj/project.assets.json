@@ -180,19 +180,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DUVAN\\.nuget\\packages\\": {}
+    "C:\\Users\\Ing Marrugo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Curso Programacion Mintic 2022\\Ciclo 3\\Programacion\\ProyectosGit\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Persistencia\\VotacionesEstudiantiles.App.Persistencia.csproj",
+      "projectUniqueName": "C:\\Users\\Ing Marrugo\\Documents\\GitHub\\VotacionesEscolaresVirtuales\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Persistencia\\VotacionesEstudiantiles.App.Persistencia.csproj",
       "projectName": "VotacionesEstudiantiles.App.Persistencia",
-      "projectPath": "D:\\Curso Programacion Mintic 2022\\Ciclo 3\\Programacion\\ProyectosGit\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Persistencia\\VotacionesEstudiantiles.App.Persistencia.csproj",
-      "packagesPath": "C:\\Users\\DUVAN\\.nuget\\packages\\",
-      "outputPath": "D:\\Curso Programacion Mintic 2022\\Ciclo 3\\Programacion\\ProyectosGit\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Persistencia\\obj\\",
+      "projectPath": "C:\\Users\\Ing Marrugo\\Documents\\GitHub\\VotacionesEscolaresVirtuales\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Persistencia\\VotacionesEstudiantiles.App.Persistencia.csproj",
+      "packagesPath": "C:\\Users\\Ing Marrugo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ing Marrugo\\Documents\\GitHub\\VotacionesEscolaresVirtuales\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\DUVAN\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Ing Marrugo\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"

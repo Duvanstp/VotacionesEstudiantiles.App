@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "WZMcIXgAY7twzzFQn9VIcdrzhHMFZMmhsR1fNVmpIBmKEXaytCvtFxmZnhKAt2saVzyDPmqF+buG2JXHkWn5kg==",
+  "dgSpecHash": "hk9bMfkXOt9raZBIfUTv+zryacQNr7BVkx1lHcHzhwMeNcfsnUFiDTPKvgFLE9cHtWXXxSlL7GE7atOVyOxgfA==",
   "success": true,
-  "projectFilePath": "D:\\Curso Programacion Mintic 2022\\Ciclo 3\\Programacion\\ProyectosGit\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Dominio\\VotacionesEstudiantiles.App.Dominio.csproj",
+  "projectFilePath": "C:\\Users\\Ing Marrugo\\Documents\\GitHub\\VotacionesEscolaresVirtuales\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Dominio\\VotacionesEstudiantiles.App.Dominio.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\DUVAN\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\DUVAN\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Ing Marrugo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Ing Marrugo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

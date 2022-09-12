@@ -25,3 +25,12 @@ D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEs
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Dominio\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Dominio.csproj.CoreCompileInputs.cache
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Dominio\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Dominio.dll
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Dominio\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Dominio.pdb
+C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Dominio\bin\Debug\netstandard2.0\VotacionesEstudiantiles.App.Dominio.deps.json
+C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Dominio\bin\Debug\netstandard2.0\VotacionesEstudiantiles.App.Dominio.dll
+C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Dominio\bin\Debug\netstandard2.0\VotacionesEstudiantiles.App.Dominio.pdb
+C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Dominio\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Dominio.csprojAssemblyReference.cache
+C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Dominio\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Dominio\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Dominio.AssemblyInfo.cs
+C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Dominio\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Dominio\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Dominio.dll
+C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Dominio\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Dominio.pdb
