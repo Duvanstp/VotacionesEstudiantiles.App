@@ -166,3 +166,4 @@ D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/ProyectosGit/VotacionesEs
 /home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.dll
 /home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.pdb
 /home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.genruntimeconfig.cache
+/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/RegistroVotantes.cshtml.g.cs
