@@ -1,3 +1,40 @@
+<<<<<<< HEAD
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\bin\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.deps.json
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\bin\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.dll
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\bin\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.pdb
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.csprojAssemblyReference.cache
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.AssemblyInfoInputs.cache
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.AssemblyInfo.cs
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.csproj.CoreCompileInputs.cache
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.dll
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.pdb
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\bin\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.deps.json
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\bin\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.dll
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\bin\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.pdb
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.AssemblyInfoInputs.cache
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.AssemblyInfo.cs
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.csproj.CoreCompileInputs.cache
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.dll
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.pdb
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\bin\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.deps.json
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\bin\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.dll
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\bin\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.pdb
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.csprojAssemblyReference.cache
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.AssemblyInfoInputs.cache
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.AssemblyInfo.cs
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.csproj.CoreCompileInputs.cache
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.dll
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.pdb
+C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\bin\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.deps.json
+C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\bin\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.dll
+C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\bin\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.pdb
+C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.csprojAssemblyReference.cache
+C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.AssemblyInfo.cs
+C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.dll
+C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.pdb
+=======
 D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Persistencia/bin/Debug/netstandard2.0/VotacionesEstudiantiles.App.Persistencia.deps.json
 D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Persistencia/bin/Debug/netstandard2.0/VotacionesEstudiantiles.App.Persistencia.dll
 D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Persistencia/bin/Debug/netstandard2.0/VotacionesEstudiantiles.App.Persistencia.pdb
@@ -25,12 +62,5 @@ D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/ProyectosGit/VotacionesEs
 /home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Persistencia/obj/Debug/netstandard2.0/VotacionesEstudiantiles.App.Persistencia.csproj.CoreCompileInputs.cache
 /home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Persistencia/obj/Debug/netstandard2.0/VotacionesEstudiantiles.App.Persistencia.dll
 /home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Persistencia/obj/Debug/netstandard2.0/VotacionesEstudiantiles.App.Persistencia.pdb
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\bin\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.deps.json
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\bin\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.dll
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\bin\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.pdb
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.csprojAssemblyReference.cache
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.AssemblyInfoInputs.cache
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.AssemblyInfo.cs
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.csproj.CoreCompileInputs.cache
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.dll
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.pdb
+>>>>>>> 28f632c4cb8fe1537c6703eaac4c372ebd898cd5
+>>>>>>> 26fab39841cbfb5065fa48408a0059cac41bf67c

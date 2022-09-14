@@ -2,7 +2,6 @@
 @model AdministradorModel
 @{
     ViewData["Title"] = "Administrador";
- 
 }
 
 <!DOCTYPE cshtml>
@@ -19,12 +18,12 @@
             <input type="password" class="form-control" id="password" placeholder="Contraseña" required>
         </div>
         <a href="/RegistroVotantes">
-         <button id="submit-btn" type="submit" class="admin-btn">Ingresar</button>
+            <button id="submit-btn" type="submit" class="admin-btn">Ingresar</button>
         </a>
         <a href="/RegistroAdmin">
-         <button id="submit-btn" type="button" class="admin-btn">Registrarse</button>
+            <button id="submit-btn" type="button" class="admin-btn">Registrarse</button>
         </a>
-       </form>
+        </form>
     </div>
     <script>
         document.querySelector('#submit-btn').onclick = (ev) => {
@@ -35,8 +34,9 @@
 
             if(user === "admin" && password === "admin") {
                 location.href="/RegistroVotantes"
+            }else {
+                alert('Usurio o contraseñas incorrectos')
             }
-            alert('Usuario o contraseñas incorrectos')
         };
     </script>
 </cshtml>
