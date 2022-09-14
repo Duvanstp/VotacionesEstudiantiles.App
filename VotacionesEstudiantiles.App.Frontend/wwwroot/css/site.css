@@ -120,3 +120,53 @@ body {
   white-space: nowrap;
   line-height: 60px; /* Vertically center the text there */
 }
+
+.admin-wrapper-form {
+  width: 100%;
+  margin-top: 5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #63376A;
+}
+.form {
+  max-width: 600px;
+  padding: 2rem;
+  border-radius: 25px;
+  border-radius: 50px;
+  background: #ffffff;
+  box-shadow:  20px 20px 60px #d9d9d9,
+               -20px -20px 60px #ffffff;
+}
+
+.admin-btn {
+  background-color: #E4489C;
+  color: white;
+  font-weight: bold;
+  font-size: 1.2rem;
+  padding: .4rem 1rem;
+  border-radius: 10px;
+  border: 0;
+  transition: .5s;
+  width: 120px;
+}
+
+.admin-btn:hover{
+  width: 200px;
+  background-color: #20D0DF; 
+  transition: .3s;
+}
+
+.admin-btn:active{
+  transform: scale(.8);
+}
+
+.form h2 {
+  color: #63376A;
+  margin: 2rem 0;
+}
+.form h2 span {
+  font-weight: bold;
+  color: #20D0DF; 
+  /* color: #E4489C; */
+}

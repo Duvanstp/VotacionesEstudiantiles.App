@@ -19,9 +19,11 @@ using VotacionesEstudiantiles.App;
 #line default
 #line hidden
 #nullable disable
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"1f02565c188bc0cf60de1bc120acef71a3608055", @"/Pages/Error.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"7b1c04b9bf95fe426a286836641d47ec81e2cabc", @"/Pages/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"cc695e7b6fc60e9a6fcc9e9cd75eefa24d7b3f98", @"/Pages/Error.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"7e1132d87bc42fa465850d65ba6e0f5c5578e88d", @"/Pages/_ViewImports.cshtml")]
+    #nullable restore
     public class Pages_Error : global::Microsoft.AspNetCore.Mvc.RazorPages.Page
+    #nullable disable
     {
         #pragma warning disable 1998
         public async override global::System.Threading.Tasks.Task ExecuteAsync()
@@ -34,7 +36,7 @@ using VotacionesEstudiantiles.App;
 #line default
 #line hidden
 #nullable disable
-            WriteLiteral("\r\n<h1 class=\"text-danger\">Error.</h1>\r\n<h2 class=\"text-danger\">An error occurred while processing your request.</h2>\r\n\r\n");
+            WriteLiteral("\n<h1 class=\"text-danger\">Error.</h1>\n<h2 class=\"text-danger\">An error occurred while processing your request.</h2>\n\n");
 #nullable restore
 #line 10 "C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\Pages\Error.cshtml"
  if (Model.ShowRequestId)
@@ -43,7 +45,7 @@ using VotacionesEstudiantiles.App;
 #line default
 #line hidden
 #nullable disable
-            WriteLiteral("    <p>\r\n        <strong>Request ID:</strong> <code>");
+            WriteLiteral("    <p>\n        <strong>Request ID:</strong> <code>");
 #nullable restore
 #line 13 "C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\Pages\Error.cshtml"
                                       Write(Model.RequestId);
@@ -51,7 +53,7 @@ using VotacionesEstudiantiles.App;
 #line default
 #line hidden
 #nullable disable
-            WriteLiteral("</code>\r\n    </p>\r\n");
+            WriteLiteral("</code>\n    </p>\n");
 #nullable restore
 #line 15 "C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\Pages\Error.cshtml"
 }
@@ -73,16 +75,26 @@ using VotacionesEstudiantiles.App;
 ");
         }
         #pragma warning restore 1998
+        #nullable restore
         [global::Microsoft.AspNetCore.Mvc.Razor.Internal.RazorInjectAttribute]
-        public global::Microsoft.AspNetCore.Mvc.ViewFeatures.IModelExpressionProvider ModelExpressionProvider { get; private set; }
+        public global::Microsoft.AspNetCore.Mvc.ViewFeatures.IModelExpressionProvider ModelExpressionProvider { get; private set; } = default!;
+        #nullable disable
+        #nullable restore
         [global::Microsoft.AspNetCore.Mvc.Razor.Internal.RazorInjectAttribute]
-        public global::Microsoft.AspNetCore.Mvc.IUrlHelper Url { get; private set; }
+        public global::Microsoft.AspNetCore.Mvc.IUrlHelper Url { get; private set; } = default!;
+        #nullable disable
+        #nullable restore
         [global::Microsoft.AspNetCore.Mvc.Razor.Internal.RazorInjectAttribute]
-        public global::Microsoft.AspNetCore.Mvc.IViewComponentHelper Component { get; private set; }
+        public global::Microsoft.AspNetCore.Mvc.IViewComponentHelper Component { get; private set; } = default!;
+        #nullable disable
+        #nullable restore
         [global::Microsoft.AspNetCore.Mvc.Razor.Internal.RazorInjectAttribute]
-        public global::Microsoft.AspNetCore.Mvc.Rendering.IJsonHelper Json { get; private set; }
+        public global::Microsoft.AspNetCore.Mvc.Rendering.IJsonHelper Json { get; private set; } = default!;
+        #nullable disable
+        #nullable restore
         [global::Microsoft.AspNetCore.Mvc.Razor.Internal.RazorInjectAttribute]
-        public global::Microsoft.AspNetCore.Mvc.Rendering.IHtmlHelper<ErrorModel> Html { get; private set; }
+        public global::Microsoft.AspNetCore.Mvc.Rendering.IHtmlHelper<ErrorModel> Html { get; private set; } = default!;
+        #nullable disable
         public global::Microsoft.AspNetCore.Mvc.ViewFeatures.ViewDataDictionary<ErrorModel> ViewData => (global::Microsoft.AspNetCore.Mvc.ViewFeatures.ViewDataDictionary<ErrorModel>)PageContext?.ViewData;
         public ErrorModel Model => ViewData.Model;
     }

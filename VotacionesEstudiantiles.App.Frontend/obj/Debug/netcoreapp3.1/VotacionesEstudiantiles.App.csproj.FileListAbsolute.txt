@@ -1,85 +1,131 @@
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.csprojAssemblyReference.cache
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.AssemblyInfoInputs.cache
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.AssemblyInfo.cs
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.csproj.CoreCompileInputs.cache
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.MvcApplicationPartsAssemblyInfo.cache
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.RazorAssemblyInfo.cache
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.RazorAssemblyInfo.cs
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.json
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.exe
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.deps.json
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.runtimeconfig.json
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.runtimeconfig.dev.json
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.dll
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.pdb
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.Views.dll
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.Views.pdb
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.Dominio.dll
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.Persistencia.dll
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.Dominio.pdb
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.Persistencia.pdb
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.TagHelpers.input.cache
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.TagHelpers.output.cache
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.RazorCoreGenerate.cache
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.RazorTargetAssemblyInfo.cache
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.RazorTargetAssemblyInfo.cs
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.Views.pdb
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.csproj.CopyComplete
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\VotacionesEstudiantiles.App.StaticWebAssets.Manifest.cache
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\VotacionesEstudiantiles.App.StaticWebAssets.xml
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.dll
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.pdb
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.genruntimeconfig.cache
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.json
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.exe
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.deps.json
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.runtimeconfig.json
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.runtimeconfig.dev.json
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.dll
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.pdb
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.Views.dll
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.Views.pdb
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.Dominio.dll
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.Persistencia.dll
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.Dominio.pdb
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.Persistencia.pdb
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.csprojAssemblyReference.cache
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.AssemblyInfoInputs.cache
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.AssemblyInfo.cs
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.csproj.CoreCompileInputs.cache
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.MvcApplicationPartsAssemblyInfo.cache
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.RazorAssemblyInfo.cache
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.RazorAssemblyInfo.cs
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.TagHelpers.input.cache
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.TagHelpers.output.cache
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.RazorCoreGenerate.cache
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.RazorTargetAssemblyInfo.cache
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.RazorTargetAssemblyInfo.cs
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.Views.pdb
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.csproj.CopyComplete
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\VotacionesEstudiantiles.App.StaticWebAssets.Manifest.cache
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\VotacionesEstudiantiles.App.StaticWebAssets.xml
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.dll
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.pdb
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.genruntimeconfig.cache
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.csprojAssemblyReference.cache
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.AssemblyInfoInputs.cache
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.AssemblyInfo.cs
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.csproj.CoreCompileInputs.cache
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.MvcApplicationPartsAssemblyInfo.cache
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.RazorAssemblyInfo.cache
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.RazorAssemblyInfo.cs
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/bin/Debug/netcoreapp3.1/appsettings.Development.json
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/bin/Debug/netcoreapp3.1/appsettings.json
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/bin/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.exe
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/bin/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.deps.json
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/bin/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.runtimeconfig.json
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/bin/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.runtimeconfig.dev.json
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/bin/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.dll
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/bin/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.pdb
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/bin/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.Views.dll
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/bin/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.Views.pdb
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/bin/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.Dominio.dll
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/bin/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.Persistencia.dll
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/bin/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.Dominio.pdb
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/bin/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.Persistencia.pdb
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.TagHelpers.input.cache
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.TagHelpers.output.cache
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.RazorCoreGenerate.cache
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Error.cshtml.g.cs
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Index.cshtml.g.cs
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Privacy.cshtml.g.cs
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/_Layout.cshtml.g.cs
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewImports.cshtml.g.cs
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewStart.cshtml.g.cs
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.RazorTargetAssemblyInfo.cache
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.RazorTargetAssemblyInfo.cs
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.Views.pdb
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.csproj.CopyComplete
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/staticwebassets/VotacionesEstudiantiles.App.StaticWebAssets.Manifest.cache
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/staticwebassets/VotacionesEstudiantiles.App.StaticWebAssets.xml
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.dll
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.pdb
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.genruntimeconfig.cache
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/ProyectosGit/VotacionesEscolaresVirtuales/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/bin/Debug/netcoreapp3.1/appsettings.Development.json
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/ProyectosGit/VotacionesEscolaresVirtuales/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/bin/Debug/netcoreapp3.1/appsettings.json
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/ProyectosGit/VotacionesEscolaresVirtuales/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/ProyectosGit/VotacionesEscolaresVirtuales/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/bin/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.exe
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/ProyectosGit/VotacionesEscolaresVirtuales/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/bin/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.deps.json
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/ProyectosGit/VotacionesEscolaresVirtuales/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/bin/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.runtimeconfig.json
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/ProyectosGit/VotacionesEscolaresVirtuales/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/bin/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.runtimeconfig.dev.json
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/ProyectosGit/VotacionesEscolaresVirtuales/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/bin/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.dll
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/ProyectosGit/VotacionesEscolaresVirtuales/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/bin/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.pdb
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/ProyectosGit/VotacionesEscolaresVirtuales/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/bin/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.Views.dll
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/ProyectosGit/VotacionesEscolaresVirtuales/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/bin/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.Views.pdb
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/ProyectosGit/VotacionesEscolaresVirtuales/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/bin/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.Dominio.dll
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/ProyectosGit/VotacionesEscolaresVirtuales/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/bin/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.Persistencia.dll
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/ProyectosGit/VotacionesEscolaresVirtuales/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/bin/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.Dominio.pdb
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/ProyectosGit/VotacionesEscolaresVirtuales/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/bin/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.Persistencia.pdb
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/ProyectosGit/VotacionesEscolaresVirtuales/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.csprojAssemblyReference.cache
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/ProyectosGit/VotacionesEscolaresVirtuales/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.AssemblyInfoInputs.cache
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/ProyectosGit/VotacionesEscolaresVirtuales/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.AssemblyInfo.cs
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/ProyectosGit/VotacionesEscolaresVirtuales/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.csproj.CoreCompileInputs.cache
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/ProyectosGit/VotacionesEscolaresVirtuales/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.MvcApplicationPartsAssemblyInfo.cache
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/ProyectosGit/VotacionesEscolaresVirtuales/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.RazorAssemblyInfo.cache
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/ProyectosGit/VotacionesEscolaresVirtuales/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.RazorAssemblyInfo.cs
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/ProyectosGit/VotacionesEscolaresVirtuales/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.TagHelpers.input.cache
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/ProyectosGit/VotacionesEscolaresVirtuales/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.TagHelpers.output.cache
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/ProyectosGit/VotacionesEscolaresVirtuales/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.RazorCoreGenerate.cache
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/ProyectosGit/VotacionesEscolaresVirtuales/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Error.cshtml.g.cs
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/ProyectosGit/VotacionesEscolaresVirtuales/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Index.cshtml.g.cs
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/ProyectosGit/VotacionesEscolaresVirtuales/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Privacy.cshtml.g.cs
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/ProyectosGit/VotacionesEscolaresVirtuales/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/_Layout.cshtml.g.cs
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/ProyectosGit/VotacionesEscolaresVirtuales/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/ProyectosGit/VotacionesEscolaresVirtuales/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewImports.cshtml.g.cs
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/ProyectosGit/VotacionesEscolaresVirtuales/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewStart.cshtml.g.cs
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/ProyectosGit/VotacionesEscolaresVirtuales/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.RazorTargetAssemblyInfo.cache
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/ProyectosGit/VotacionesEscolaresVirtuales/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.RazorTargetAssemblyInfo.cs
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/ProyectosGit/VotacionesEscolaresVirtuales/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.Views.pdb
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/ProyectosGit/VotacionesEscolaresVirtuales/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.csproj.CopyComplete
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/ProyectosGit/VotacionesEscolaresVirtuales/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/staticwebassets/VotacionesEstudiantiles.App.StaticWebAssets.Manifest.cache
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/ProyectosGit/VotacionesEscolaresVirtuales/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/staticwebassets/VotacionesEstudiantiles.App.StaticWebAssets.xml
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/ProyectosGit/VotacionesEscolaresVirtuales/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.dll
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/ProyectosGit/VotacionesEscolaresVirtuales/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.pdb
+D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/ProyectosGit/VotacionesEscolaresVirtuales/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.genruntimeconfig.cache
+/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/bin/Debug/netcoreapp3.1/appsettings.json
+/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/bin/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.StaticWebAssets.xml
+/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/bin/Debug/netcoreapp3.1/VotacionesEstudiantiles.App
+/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/bin/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.deps.json
+/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/bin/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.runtimeconfig.json
+/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/bin/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.runtimeconfig.dev.json
+/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/bin/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.dll
+/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/bin/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.pdb
+/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/bin/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.Views.dll
+/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/bin/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.Views.pdb
+/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/bin/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.Dominio.dll
+/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/bin/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.Persistencia.dll
+/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/bin/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.Dominio.pdb
+/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/bin/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.Persistencia.pdb
+/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.csproj.AssemblyReference.cache
+/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.GeneratedMSBuildEditorConfig.editorconfig
+/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.AssemblyInfoInputs.cache
+/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.AssemblyInfo.cs
+/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.csproj.CoreCompileInputs.cache
+/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.MvcApplicationPartsAssemblyInfo.cache
+/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.RazorAssemblyInfo.cache
+/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.RazorAssemblyInfo.cs
+/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/staticwebassets/VotacionesEstudiantiles.App.StaticWebAssets.Manifest.cache
+/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.TagHelpers.input.cache
+/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.TagHelpers.output.cache
+/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.RazorCoreGenerate.cache
+/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Administrador.cshtml.g.cs
+/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Error.cshtml.g.cs
+/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Index.cshtml.g.cs
+/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Privacy.cshtml.g.cs
+/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/_Layout.cshtml.g.cs
+/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Votante.cshtml.g.cs
+/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewImports.cshtml.g.cs
+/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewStart.cshtml.g.cs
+/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.RazorTargetAssemblyInfo.cache
+/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.RazorTargetAssemblyInfo.cs
+/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.Views.pdb
+/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.csproj.CopyComplete
+/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.dll
+/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.pdb
+/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/VotacionesEstudiantiles.App.genruntimeconfig.cache
+<<<<<<< HEAD
+/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/RegistroVotantes.cshtml.g.cs
+=======
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.json
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
@@ -95,7 +141,6 @@ D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEs
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.Persistencia.dll
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.Dominio.pdb
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.Persistencia.pdb
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.csprojAssemblyReference.cache
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.AssemblyInfoInputs.cache
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.AssemblyInfo.cs
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.csproj.CoreCompileInputs.cache
@@ -105,11 +150,13 @@ D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEs
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.TagHelpers.input.cache
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.TagHelpers.output.cache
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.RazorCoreGenerate.cache
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Administrador.cshtml.g.cs
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Votante.cshtml.g.cs
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.RazorTargetAssemblyInfo.cache
@@ -121,6 +168,7 @@ D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEs
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.dll
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.pdb
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.genruntimeconfig.cache
+<<<<<<< HEAD
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Votante.cshtml.g.cs
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Administrador.cshtml.g.cs
 C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
@@ -166,3 +214,6 @@ C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEscolaresVirtuales\VotacionesEst
 C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.dll
 C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.pdb
 C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.genruntimeconfig.cache
+=======
+>>>>>>> c5c32599951f7e93ac9f100df06ba9a67121cf31
+>>>>>>> 28f632c4cb8fe1537c6703eaac4c372ebd898cd5

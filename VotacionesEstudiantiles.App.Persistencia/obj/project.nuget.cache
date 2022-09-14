@@ -1,11 +1,20 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "DMny7SbmSvKLZlcE6Z35wFliLFNRvUUx8kSqYdksJ4zvjcpRRovV7MOzmtTT1WwOIdAr8NVGNL5QOrPB9grIqg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Ing Marrugo\\Documents\\GitHub\\VotacionesEscolaresVirtuales\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Persistencia\\VotacionesEstudiantiles.App.Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ing Marrugo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Ing Marrugo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+=======
+  "dgSpecHash": "0QN45mkG4O4R0+H6ROvxMclYxCdEM9Z+EwcCGwMROQVPcgTsWGFj/cHh6tncfE74KEceJ4jjuhVyb3BPf6HKBg==",
+  "success": true,
+  "projectFilePath": "/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Persistencia/VotacionesEstudiantiles.App.Persistencia.csproj",
+  "expectedPackageFiles": [
+    "/home/jdiaz/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/jdiaz/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+>>>>>>> 28f632c4cb8fe1537c6703eaac4c372ebd898cd5
   ],
   "logs": []
 }

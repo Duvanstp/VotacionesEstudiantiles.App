@@ -6,7 +6,17 @@
 }
 <!DOCTYPE cshtml>
 <cshtml lang="en">
-<p>Acá podrá consignar su voto por favor siga las instrucciones</p>
+<!-- <p>Acá podrá crear el evento de votacion siga las instrucciones</p> -->
+<div class="admin-wrapper-form">
+    <form id="votante-form"class="form" preventDefault="true">
+    <h2> <span> Votante </span> </h2>
+    <div class="form-group">
+        <label for="documentVotante">Documento</label>
+        <input type="documentVotante" class="form-control" id="documentVotante" placeholder="Ingresar usuario" required>
+    </div>
+    <button id="submit-btn"type="submit" class="admin-btn">Ir a Votar</button>
+    </form>
+</div>
 
 <!-- Diseño del tarjeton -->
 <div class="container">
