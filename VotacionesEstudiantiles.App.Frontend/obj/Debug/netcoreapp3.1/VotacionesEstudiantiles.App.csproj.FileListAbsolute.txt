@@ -169,3 +169,6 @@ D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEs
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.pdb
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.genruntimeconfig.cache
 >>>>>>> c5c32599951f7e93ac9f100df06ba9a67121cf31
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.csprojAssemblyReference.cache
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\RegistroVotantes.cshtml.g.cs
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\RegistroAdmin.cshtml.g.cs
