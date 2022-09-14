@@ -180,16 +180,11 @@
     ]
   },
   "packageFolders": {
-<<<<<<< HEAD
     "C:\\Users\\Ing Marrugo\\.nuget\\packages\\": {}
-=======
-    "/home/jdiaz/.nuget/packages/": {}
->>>>>>> 28f632c4cb8fe1537c6703eaac4c372ebd898cd5
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Ing Marrugo\\Documents\\GitHub\\VotacionesEscolaresVirtuales\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Persistencia\\VotacionesEstudiantiles.App.Persistencia.csproj",
       "projectName": "VotacionesEstudiantiles.App.Persistencia",
       "projectPath": "C:\\Users\\Ing Marrugo\\Documents\\GitHub\\VotacionesEscolaresVirtuales\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Persistencia\\VotacionesEstudiantiles.App.Persistencia.csproj",
@@ -198,16 +193,6 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ing Marrugo\\AppData\\Roaming\\NuGet\\NuGet.Config"
-=======
-      "projectUniqueName": "/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Persistencia/VotacionesEstudiantiles.App.Persistencia.csproj",
-      "projectName": "VotacionesEstudiantiles.App.Persistencia",
-      "projectPath": "/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Persistencia/VotacionesEstudiantiles.App.Persistencia.csproj",
-      "packagesPath": "/home/jdiaz/.nuget/packages/",
-      "outputPath": "/home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Persistencia/obj/",
-      "projectStyle": "PackageReference",
-      "configFilePaths": [
-        "/home/jdiaz/.nuget/NuGet/NuGet.Config"
->>>>>>> 28f632c4cb8fe1537c6703eaac4c372ebd898cd5
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
@@ -217,7 +202,6 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "targetAlias": "netstandard2.0",
           "projectReferences": {}
         }
       },
@@ -229,7 +213,6 @@
     },
     "frameworks": {
       "netstandard2.0": {
-        "targetAlias": "netstandard2.0",
         "dependencies": {
           "NETStandard.Library": {
             "suppressParent": "All",
@@ -244,13 +227,20 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.422\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché C:\\Users\\Ing Marrugo\\Documents\\GitHub\\VotacionesEscolaresVirtuales\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Persistencia\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
