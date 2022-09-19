@@ -51,7 +51,7 @@ button.accept-policy {
   line-height: inherit;
 }
 .button {
-  background-color: #33ff5f; /* Green */
+  background-color: #56f879; /* Green */
   border: none;
   color: rgb(171, 33, 206);
   padding: 0px 70px;
@@ -70,7 +70,7 @@ button.accept-policy {
   cursor: pointer;
 }
 .button2 {
-  background-color: #33ff5f; /* Green */
+  background-color: #56f879; /* Green */
   border: none;
   color: rgb(171, 33, 206);
   padding: 0px 25px;
@@ -88,7 +88,7 @@ button.accept-policy {
   transition-duration: 0.4s;
   cursor: pointer;
 }
-.button:hover {background-color: #3fca52}
+.button:hover {background-color: #45bd55}
 
 .button:active {
   background-color: #3e8e41;
