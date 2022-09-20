@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "akS/3QFfSt2Yd75nNzOZlQhjX05SwUntA8AXInK0N4ug+E7SwXsAoeeXrsG5rRwwa79WO5s6NdUAzn4XRXOvFg==",
+  "dgSpecHash": "w+3FPvBK76xILbZ4FDMS/Inr9Dqxni16mrRiCFIJ3lta0E/8rH2KiaVEo9UvIAV+ljnPpZFwtm+nC5r/BaWKbg==",
   "success": true,
-  "projectFilePath": "D:\\Curso Programacion Mintic 2022\\Ciclo 3\\Programacion\\ProyectosGit\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Frontend\\VotacionesEstudiantiles.App.csproj",
+  "projectFilePath": "C:\\Users\\Ing Marrugo\\Documents\\GitHub\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Frontend\\VotacionesEstudiantiles.App.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problema al leer el archivo de caché D:\\Curso Programacion Mintic 2022\\Ciclo 3\\Programacion\\ProyectosGit\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Frontend\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

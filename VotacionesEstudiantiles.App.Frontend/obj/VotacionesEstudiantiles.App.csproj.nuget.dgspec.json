@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Curso Programacion Mintic 2022\\Ciclo 3\\Programacion\\ProyectosGit\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Frontend\\VotacionesEstudiantiles.App.csproj": {}
+    "C:\\Users\\Ing Marrugo\\Documents\\GitHub\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Frontend\\VotacionesEstudiantiles.App.csproj": {}
   },
   "projects": {
-    "D:\\Curso Programacion Mintic 2022\\Ciclo 3\\Programacion\\ProyectosGit\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Dominio\\VotacionesEstudiantiles.App.Dominio.csproj": {
+    "C:\\Users\\Ing Marrugo\\Documents\\GitHub\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Dominio\\VotacionesEstudiantiles.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Curso Programacion Mintic 2022\\Ciclo 3\\Programacion\\ProyectosGit\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Dominio\\VotacionesEstudiantiles.App.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\Ing Marrugo\\Documents\\GitHub\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Dominio\\VotacionesEstudiantiles.App.Dominio.csproj",
         "projectName": "VotacionesEstudiantiles.App.Dominio",
-        "projectPath": "D:\\Curso Programacion Mintic 2022\\Ciclo 3\\Programacion\\ProyectosGit\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Dominio\\VotacionesEstudiantiles.App.Dominio.csproj",
-        "packagesPath": "C:\\Users\\DUVAN\\.nuget\\packages\\",
-        "outputPath": "D:\\Curso Programacion Mintic 2022\\Ciclo 3\\Programacion\\ProyectosGit\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Dominio\\obj\\",
+        "projectPath": "C:\\Users\\Ing Marrugo\\Documents\\GitHub\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Dominio\\VotacionesEstudiantiles.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\Ing Marrugo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ing Marrugo\\Documents\\GitHub\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DUVAN\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Ing Marrugo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -57,17 +57,17 @@
         }
       }
     },
-    "D:\\Curso Programacion Mintic 2022\\Ciclo 3\\Programacion\\ProyectosGit\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Frontend\\VotacionesEstudiantiles.App.csproj": {
+    "C:\\Users\\Ing Marrugo\\Documents\\GitHub\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Frontend\\VotacionesEstudiantiles.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Curso Programacion Mintic 2022\\Ciclo 3\\Programacion\\ProyectosGit\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Frontend\\VotacionesEstudiantiles.App.csproj",
+        "projectUniqueName": "C:\\Users\\Ing Marrugo\\Documents\\GitHub\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Frontend\\VotacionesEstudiantiles.App.csproj",
         "projectName": "VotacionesEstudiantiles.App",
-        "projectPath": "D:\\Curso Programacion Mintic 2022\\Ciclo 3\\Programacion\\ProyectosGit\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Frontend\\VotacionesEstudiantiles.App.csproj",
-        "packagesPath": "C:\\Users\\DUVAN\\.nuget\\packages\\",
-        "outputPath": "D:\\Curso Programacion Mintic 2022\\Ciclo 3\\Programacion\\ProyectosGit\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Frontend\\obj\\",
+        "projectPath": "C:\\Users\\Ing Marrugo\\Documents\\GitHub\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Frontend\\VotacionesEstudiantiles.App.csproj",
+        "packagesPath": "C:\\Users\\Ing Marrugo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ing Marrugo\\Documents\\GitHub\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Frontend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DUVAN\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Ing Marrugo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -78,11 +78,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\Curso Programacion Mintic 2022\\Ciclo 3\\Programacion\\ProyectosGit\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Dominio\\VotacionesEstudiantiles.App.Dominio.csproj": {
-                "projectPath": "D:\\Curso Programacion Mintic 2022\\Ciclo 3\\Programacion\\ProyectosGit\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Dominio\\VotacionesEstudiantiles.App.Dominio.csproj"
+              "C:\\Users\\Ing Marrugo\\Documents\\GitHub\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Dominio\\VotacionesEstudiantiles.App.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Ing Marrugo\\Documents\\GitHub\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Dominio\\VotacionesEstudiantiles.App.Dominio.csproj"
               },
-              "D:\\Curso Programacion Mintic 2022\\Ciclo 3\\Programacion\\ProyectosGit\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Persistencia\\VotacionesEstudiantiles.App.Persistencia.csproj": {
-                "projectPath": "D:\\Curso Programacion Mintic 2022\\Ciclo 3\\Programacion\\ProyectosGit\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Persistencia\\VotacionesEstudiantiles.App.Persistencia.csproj"
+              "C:\\Users\\Ing Marrugo\\Documents\\GitHub\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Persistencia\\VotacionesEstudiantiles.App.Persistencia.csproj": {
+                "projectPath": "C:\\Users\\Ing Marrugo\\Documents\\GitHub\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Persistencia\\VotacionesEstudiantiles.App.Persistencia.csproj"
               }
             }
           }
@@ -117,17 +117,17 @@
         }
       }
     },
-    "D:\\Curso Programacion Mintic 2022\\Ciclo 3\\Programacion\\ProyectosGit\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Persistencia\\VotacionesEstudiantiles.App.Persistencia.csproj": {
+    "C:\\Users\\Ing Marrugo\\Documents\\GitHub\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Persistencia\\VotacionesEstudiantiles.App.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Curso Programacion Mintic 2022\\Ciclo 3\\Programacion\\ProyectosGit\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Persistencia\\VotacionesEstudiantiles.App.Persistencia.csproj",
+        "projectUniqueName": "C:\\Users\\Ing Marrugo\\Documents\\GitHub\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Persistencia\\VotacionesEstudiantiles.App.Persistencia.csproj",
         "projectName": "VotacionesEstudiantiles.App.Persistencia",
-        "projectPath": "D:\\Curso Programacion Mintic 2022\\Ciclo 3\\Programacion\\ProyectosGit\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Persistencia\\VotacionesEstudiantiles.App.Persistencia.csproj",
-        "packagesPath": "C:\\Users\\DUVAN\\.nuget\\packages\\",
-        "outputPath": "D:\\Curso Programacion Mintic 2022\\Ciclo 3\\Programacion\\ProyectosGit\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Persistencia\\obj\\",
+        "projectPath": "C:\\Users\\Ing Marrugo\\Documents\\GitHub\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Persistencia\\VotacionesEstudiantiles.App.Persistencia.csproj",
+        "packagesPath": "C:\\Users\\Ing Marrugo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ing Marrugo\\Documents\\GitHub\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DUVAN\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Ing Marrugo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"

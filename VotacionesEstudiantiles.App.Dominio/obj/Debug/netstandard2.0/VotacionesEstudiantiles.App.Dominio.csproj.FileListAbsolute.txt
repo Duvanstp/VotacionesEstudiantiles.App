@@ -66,3 +66,12 @@ D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/ProyectosGit/VotacionesEs
 /home/jdiaz/Documents/study/mintic/ciclo-3/VotacionesEstudiantiles.App/VotacionesEstudiantiles.App.Dominio/obj/Debug/netstandard2.0/VotacionesEstudiantiles.App.Dominio.pdb
 >>>>>>> 28f632c4cb8fe1537c6703eaac4c372ebd898cd5
 >>>>>>> 26fab39841cbfb5065fa48408a0059cac41bf67c
+C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Dominio\bin\Debug\netstandard2.0\VotacionesEstudiantiles.App.Dominio.deps.json
+C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Dominio\bin\Debug\netstandard2.0\VotacionesEstudiantiles.App.Dominio.dll
+C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Dominio\bin\Debug\netstandard2.0\VotacionesEstudiantiles.App.Dominio.pdb
+C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Dominio\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Dominio.csprojAssemblyReference.cache
+C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Dominio\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Dominio\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Dominio.AssemblyInfo.cs
+C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Dominio\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Dominio\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Dominio.dll
+C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Dominio\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Dominio.pdb
