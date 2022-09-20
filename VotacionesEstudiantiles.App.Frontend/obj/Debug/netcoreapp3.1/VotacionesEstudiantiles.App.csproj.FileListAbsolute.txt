@@ -128,7 +128,6 @@ D:/Curso Programacion Mintic 2022/Ciclo 3/Programacion/ProyectosGit/VotacionesEs
 =======
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.json
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.exe
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.deps.json
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.runtimeconfig.json
@@ -164,7 +163,6 @@ D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEs
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.Views.pdb
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.csproj.CopyComplete
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\VotacionesEstudiantiles.App.StaticWebAssets.Manifest.cache
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\VotacionesEstudiantiles.App.StaticWebAssets.xml
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.dll
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.pdb
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.genruntimeconfig.cache
@@ -212,7 +210,6 @@ C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEscolaresVirtuales\VotacionesEst
 C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.pdb
 C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.genruntimeconfig.cache
 >>>>>>> c5c32599951f7e93ac9f100df06ba9a67121cf31
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.csprojAssemblyReference.cache
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\RegistroVotantes.cshtml.g.cs
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\RegistroAdmin.cshtml.g.cs
 >>>>>>> 28f632c4cb8fe1537c6703eaac4c372ebd898cd5
@@ -266,3 +263,45 @@ C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEstudiantiles.App\VotacionesEstu
 C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.dll
 C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.pdb
 C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.genruntimeconfig.cache
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.csproj.AssemblyReference.cache
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.GeneratedMSBuildEditorConfig.editorconfig

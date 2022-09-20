@@ -73,3 +73,5 @@ C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEstudiantiles.App\VotacionesEstu
 C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.csproj.CoreCompileInputs.cache
 C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.dll
 C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.pdb
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.csproj.AssemblyReference.cache
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Persistencia\obj\Debug\netstandard2.0\VotacionesEstudiantiles.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
