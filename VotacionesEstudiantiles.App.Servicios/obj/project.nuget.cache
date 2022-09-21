@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "/RiBlksOl9gJIMgg5+QiK1Daie4Yi3B3jByurAY/3JbP8XkIIbeEaLLK1ikP3kvEffkTo63VrwvBBrUhxRn3Jg==",
+  "success": true,
+  "projectFilePath": "D:\\Curso Programacion Mintic 2022\\Ciclo 3\\Programacion\\ProyectosGit\\VotacionesEstudiantiles.App\\VotacionesEstudiantiles.App.Servicios\\VotacionesEstudiantiles.App.Servicios.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DUVAN\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\DUVAN\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\DUVAN\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\DUVAN\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\DUVAN\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\DUVAN\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
