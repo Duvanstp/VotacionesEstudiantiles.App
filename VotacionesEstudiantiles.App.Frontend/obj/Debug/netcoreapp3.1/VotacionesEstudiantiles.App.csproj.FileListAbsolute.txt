@@ -210,7 +210,6 @@ C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEscolaresVirtuales\VotacionesEst
 C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.pdb
 C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.genruntimeconfig.cache
 >>>>>>> c5c32599951f7e93ac9f100df06ba9a67121cf31
-D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\RegistroVotantes.cshtml.g.cs
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\RegistroAdmin.cshtml.g.cs
 >>>>>>> 28f632c4cb8fe1537c6703eaac4c372ebd898cd5
 C:\Users\Ing Marrugo\Documents\GitHub\VotacionesEscolaresVirtuales\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\RegistroVotantes.cshtml.g.cs
@@ -305,3 +304,4 @@ D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEs
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.csproj.AssemblyReference.cache
 D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\VotacionesEstudiantiles.App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso Programacion Mintic 2022\Ciclo 3\Programacion\ProyectosGit\VotacionesEstudiantiles.App\VotacionesEstudiantiles.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\RegistrarEstudiante.cshtml.g.cs

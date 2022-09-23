@@ -170,3 +170,10 @@ body {
   color: #20D0DF; 
   /* color: #E4489C; */
 }
+.salir {
+    font-family: Arial;
+    border-radius: 10px;
+    height: 40px;
+    background-color: #1FD68D;
+    border: none;
+}

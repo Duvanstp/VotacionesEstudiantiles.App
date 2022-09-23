@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\VotacionesEstudiantiles.App.Frontend\\Pages",
+    "\\VotacionesEstudiantiles.App.Frontend\\wwwroot",
+    "\\VotacionesEstudiantiles.App.Frontend\\wwwroot\\css",
+    "\\VotacionesEstudiantiles.App.Persistencia",
+    "\\VotacionesEstudiantiles.App.Persistencia\\AppRepositorios"
+  ],
+  "SelectedNode": "\\VotacionesEstudiantiles.App.Persistencia\\AppRepositorios\\AppContext.cs",
+  "PreviewInSolutionExplorer": false
+}
